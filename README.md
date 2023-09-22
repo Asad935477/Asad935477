@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md. Asad Khan</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
 
-<img align="right" alt="Coding" width="400" border-radius= "5%" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asad935477&label=Profile%20views&color=0e75b6&style=flat" alt="asad935477" /> </p>
 
