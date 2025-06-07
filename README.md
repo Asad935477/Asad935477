@@ -50,6 +50,8 @@ My Badges and Achievements :
 
 [![An image of @asad935477's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asad935477)](https://holopin.io/@asad935477)
 
+![Samsung Innovation Campus 2022-2023 ](https://github.com/Asad935477/Asad935477/blob/main/17146_SIC_Badge_Final_Artificial%20Intelligence.jpg)
+
 
 
  My Stats :
