@@ -48,16 +48,10 @@
 My Badges and Achievements :
 ----------------------------
 [![An image of @asad935477's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asad935477)](https://holopin.io/@asad935477)
-  <img 
-    src="https://leetcode-badge-psi.vercel.app/api?username=asad935477&theme=light&border=no-border&animated=false" 
-    alt="LeetCode Badge"
-    width="65.8%"
-  />
-  <img 
-    src="https://github.com/Asad935477/Asad935477/blob/main/17146_SIC_Badge_Final_Artificial%20Intelligence.jpg" 
-    alt="SIC AI Badge"
-    width="33.5%"
-  />
+<p align="center">  
+  <img src="https://leetcode-badge-psi.vercel.app/api?username=asad935477&theme=light&border=no-border&animated=false" alt="LeetCode Badge" width="55%" style="vertical-align: bottom;"/>
+  <img src="https://github.com/Asad935477/Asad935477/blob/main/SIC%20-%20BADGE.jpg" alt="SIC AI Badge" height="405px" style="vertical-align: bottom; padding-top: -12px;" />
+</p>
 
  My Stats :
 -----------
