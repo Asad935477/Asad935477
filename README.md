@@ -13,7 +13,7 @@
 
 <p align="left"><a href="https://www.linkedin.com/in/asad-khan-387536234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad khan" height="30" width="40" /></a>
 
-  
+  <!--
 ### Languages and Tools :
 -------------------------
 <p align="left">
@@ -41,6 +41,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
 </p>
 
+-->
 
  
 ---
