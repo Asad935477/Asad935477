@@ -7,7 +7,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=asad935477&label=Profile%20views&color=0e75b6&style=flat" alt="asad935477" /></p>
 
-- 🌱 I’m currently learning **MENN Stack and UI-UX designing**
+- 🌱 I’m currently learning **MENN & NNA Stack and UI-UX designing**
 - 💬 Ask me about **MERN, Python, MySQL**
 - 📫 How to reach me **yousafzaiasad@gmail.com**
 
