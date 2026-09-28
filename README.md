@@ -47,7 +47,7 @@
  
 
 
-My Badges and Achievements :
+My Badges and Achievements 
 ----------------------------
 [![An image of @asad935477's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asad935477)](https://holopin.io/@asad935477)
 <p align="center">  
